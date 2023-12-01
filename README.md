@@ -1,6 +1,3 @@
-# Leads-Tracker-Project
-
-Certainly! Writing a README file for your GitHub repository is a great way to provide information and guidance for users and contributors. Here's a template you can use for your leads tracker Chrome extension:
 
 # Leads Tracker Chrome Extension
 
